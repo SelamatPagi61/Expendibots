@@ -11,9 +11,8 @@ Game rule
 ===
 https://github.com/SelamatPagi61/Expendibots/blob/master/Expendibots-game-rules.pdf
 
-Author: 
+Author: Jiehuang Shi
 ===
-Jiehuang Shi
 
 The game preview
 ===
